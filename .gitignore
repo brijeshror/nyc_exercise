@@ -1,0 +1,14 @@
+/.idea
+/test/tmp/
+/log/*
+!/log/.keep
+/tmp
+
+/doc/
+/rdoc/
+
+/.bundle/
+/vendor
+
+.ruby-version
+.ruby-gemset
